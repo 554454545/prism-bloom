@@ -1,0 +1,22 @@
+{
+  "name": "prism-bloom",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 4180",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test:study": "node scripts/verify-study.mjs",
+    "test:continuity": "node scripts/verify-continuous.mjs",
+    "test:playback": "node scripts/verify-signal-playback.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.63.0",
+    "vite": "7.3.6"
+  },
+  "description": "A 20-second kinetic journey through folding geometry, colorful ribbons and a prism constellation.",
+  "engines": {
+    "node": ">=22.18.0"
+  }
+}
