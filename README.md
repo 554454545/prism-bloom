@@ -4,6 +4,8 @@
 
 光点展开成轮盘，放映机投出的面板折成空间；卡片延展为长带，两侧翼片错开翻起。镜头穿过螺旋结构，绕行花瓣装置，看它折成晶体、散开为星群。画面从浅色与粉色逐渐进入深蓝和紫色。
 
+**[在线体验 → prism-bloom.pages.dev](https://prism-bloom.pages.dev/)**
+
 ## 预览
 
 ![折纸长带与螺旋空间](docs/previews/ribbon.webp)
